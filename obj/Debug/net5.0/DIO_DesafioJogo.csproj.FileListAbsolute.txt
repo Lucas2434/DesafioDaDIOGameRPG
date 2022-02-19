@@ -1,0 +1,16 @@
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\DIO_DesafioJogo.exe
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\DIO_DesafioJogo.deps.json
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\DIO_DesafioJogo.runtimeconfig.json
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\DIO_DesafioJogo.runtimeconfig.dev.json
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\DIO_DesafioJogo.dll
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\ref\DIO_DesafioJogo.dll
+C:\Users\Lucas\DIO_DesafioJogo\bin\Debug\net5.0\DIO_DesafioJogo.pdb
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.csproj.AssemblyReference.cache
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.AssemblyInfoInputs.cache
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.AssemblyInfo.cs
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.dll
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\ref\DIO_DesafioJogo.dll
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.pdb
+C:\Users\Lucas\DIO_DesafioJogo\obj\Debug\net5.0\DIO_DesafioJogo.genruntimeconfig.cache
